@@ -1,0 +1,33 @@
+{
+    "24b5e55b-38bb-61a8-82ce-d0cd3c2d6397": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Top Down.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "2fe2ccef-b1d9-b31d-f26a-4f969650d760": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Changing_Lanes_Thumb.tex.nasset"
+    },
+    "5bafa2ba-c4ed-6063-b087-5c84792daf6a": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "9c3627de-c8d7-477e-91c2-69c108d923aa": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Changing Lanes",
+        "thumbnail": "2fe2ccef-b1d9-b31d-f26a-4f969650d760",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "d4b7b576-cd14-42ea-b3f6-1fc6cc7f1f70": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Changing Lanes.scene.nasset"
+    },
+    "guid": "5bafa2ba-c4ed-6063-b087-5c84792daf6a"
+}
